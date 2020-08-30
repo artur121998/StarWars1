@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="population">Population</string>
+    <string name="climate">Climate</string>
+    <string name="terrain">Terrain</string>
+    <string name="surface_water">Surface_water</string>
+    <string name="residents">Residents</string>
+    <string name="films">Films</string>
+
+</resources>
